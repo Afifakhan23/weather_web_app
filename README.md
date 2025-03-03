@@ -36,6 +36,6 @@ streamlit run app.py
 
 ### 5️⃣ Enter a City & Get Weather Updates
 Enter any city name in the input box 📍<br>
-Click on “🔍 Get Weather”<br>
+Click on 🔍 Get Weather<br>
 View real-time temperature, humidity, wind speed, and conditions for your selected city! 🌍☀️🌧
 
